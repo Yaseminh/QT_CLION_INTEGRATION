@@ -1,0 +1,11 @@
+# ninja log v6
+34	578	7426855987253150	untitled6_autogen/mocs_compilation.cpp	735db34b81947728
+34	578	7426855987253150	untitled6_autogen/timestamp	735db34b81947728
+34	578	7426855987253150	C:/Users/yasemin/CLionProjects/untitled6/cmake-build-debug/untitled6_autogen/timestamp	735db34b81947728
+34	578	7426855987253150	C:/Users/yasemin/CLionProjects/untitled6/cmake-build-debug/untitled6_autogen/mocs_compilation.cpp	735db34b81947728
+2733	3352	7426856009466152	untitled6.exe	5442e423c8addff2
+579	2722	7426855987923342	CMakeFiles/untitled6.dir/untitled6_autogen/mocs_compilation.cpp.obj	9c2d8276ed113abe
+582	2732	7426855987962943	CMakeFiles/untitled6.dir/main.cpp.obj	99f749d26c244b1
+199	1542	7426831662135989	CMakeFiles/untitled6.dir/Form_Files/testui.cpp.obj	161eceeadc652ee3
+67	4348	7426859447985875	build.ninja	2f785b28f8e875db
+586	2733	7426855987992939	CMakeFiles/untitled6.dir/Form_Files/LOAD_SCREEN/testui.cpp.obj	78562abf36123c21
